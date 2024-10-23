@@ -20,8 +20,10 @@ namespace Framework_Lab2.Controllers
         public int priority {  get; set; }
         public string createdBy {  get; set; }
     }
+    [Route("Tasks")]
     public class TaskController : Controller
     {
+        [HttpGet]
         public IActionResult Index()
         {
             return Content("Aceasta este o listă de sarcini");

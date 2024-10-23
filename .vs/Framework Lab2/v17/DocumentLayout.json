@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Framework Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Program.cs",
+              "RelativeToolTip": "Framework Lab2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:33:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Framework Lab2\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Framework Lab2\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:25:14.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Framework Lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Framework Lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:06:25.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
