@@ -1,0 +1,36 @@
+﻿@model Framework_Lab2.Controllers.Task
+
+<div>
+    id: @Model.id <br>
+    Titlu: @Model.title <br>
+    Descriere: @Model.description<br>
+    Data Creare: @Model.dateCreated <br>
+    Data Modificare: @Model.dateUpdated <br>
+    @{
+        string text = "";
+        switch (Model.action)
+        {
+            case 1: text = "editare";break;
+            case 2: text = "stergere";break;
+        }
+    }
+    Actiune: @text<br>
+    @{
+        switch (Model.state)
+        {
+            case 0: text = "nu este finalizat"; break;
+            case 1: text = "finalizat"; break;
+        }
+    }
+    Stare: @text<br>
+    @{
+        switch (Model.priority)
+        {
+            case 1: text = "scazuta"; break;
+            case 2: text = "medie"; break;
+            case 3: text = "ridicata"; break;
+        }
+    }
+    Prioritate: @text<br>
+    Cine a creat: @Model.createdBy<br>
+</div>

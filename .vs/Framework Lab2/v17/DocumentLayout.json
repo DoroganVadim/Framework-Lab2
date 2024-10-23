@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\views\\task\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\views\\task\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|c:\\users\\user\\desktop\\an3sem1\\frameworkuri\\framework lab2\\framework lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3333AF4-7F51-4319-869B-81C65F2894DD}|Framework Lab2\\Framework Lab2.csproj|solutionrelative:framework lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Framework Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Framework Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:20:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Framework Lab2\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Framework Lab2\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:20:35.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Task\\Show.cshtml",
+              "RelativeDocumentMoniker": "Framework Lab2\\Views\\Task\\Show.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Task\\Show.cshtml",
+              "RelativeToolTip": "Framework Lab2\\Views\\Task\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:20:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Framework Lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Framework Lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:20:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Framework Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\an3sem1\\Frameworkuri\\Framework Lab2\\Framework Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Framework Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:20:35.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
