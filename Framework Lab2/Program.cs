@@ -21,10 +21,6 @@ app.MapControllerRoute(
     constraints: new { id = @"^[1-9]\d*$"}
 );
 
-//app.MapControllerRoute(
-    //name: "tasks",
-    //pattern: "api/v2/{controller=Task}/{action=Index}/{id?}");
-
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

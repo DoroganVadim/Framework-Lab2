@@ -1,5 +1,38 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@model List<Framework_Lab2.Controllers.Task>
+
+@foreach (var t in Model){
+<div>
+    id: @t.id <br>
+    Titlu: @t.title <br>
+    Descriere: @t.description<br>
+    Data Creare: @t.dateCreated <br>
+    Data Modificare: @t.dateUpdated <br>
+    @{
+        string text = "";
+        switch (t.action)
+        {
+            case 1: text = "editare";break;
+            case 2: text = "stergere";break;
+        }
+    }
+    Actiune: @text<br>
+    @{
+        switch (t.state)
+        {
+            case 0: text = "nu este finalizat"; break;
+            case 1: text = "finalizat"; break;
+        }
+    }
+    Stare: @text<br>
+    @{
+        switch (t.priority)
+        {
+            case 1: text = "scazuta"; break;
+            case 2: text = "medie"; break;
+            case 3: text = "ridicata"; break;
+        }
+    }
+    Prioritate: @text<br>
+    Cine a creat: @t.createdBy<br><br>
+</div>
 }
